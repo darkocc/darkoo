@@ -1,0 +1,13 @@
+
+*.db
+*.txt
+*.ipch
+*.obj
+*.ilk
+*.recipe
+*.log
+*.tlog
+.vs/supremacy_csgo/v17/.suo
+*.idb
+*.pdb
+*.dll
